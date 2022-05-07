@@ -1,6 +1,6 @@
 from countryinfo import CountryInfo
 
-country = CountryInfo('India')
+country = CountryInfo('Australia')
 
 # data = country.alt_spellings()
 # data = country.area()
