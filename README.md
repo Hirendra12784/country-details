@@ -1,2 +1,2 @@
-# Countryinfopython
-getting country information using python
+# Countrydetailspython
+getting information about the country using python
